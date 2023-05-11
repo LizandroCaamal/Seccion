@@ -1,0 +1,9 @@
+package animal;
+
+public class Animal {
+    private String tipo;
+    private String raza;
+    private String color;
+    private int edad;
+    private double altura;
+    private double peso;
